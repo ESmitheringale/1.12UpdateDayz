@@ -435,4 +435,7 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="12106.7" z="6288.33" r="80"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="12998.3" z="6740" r="100"/>
     </territory>
+	    <territory color="2147549183">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6481.51" z="2345.45" r="82.5"/> 
+    </territory>
 </territory-type>
